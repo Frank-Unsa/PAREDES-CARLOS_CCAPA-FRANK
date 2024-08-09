@@ -1,0 +1,24 @@
+[2024-08-08 22:41:19] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:41:20] [ INFO ] [OdontologoDAOH2:51] Comenzamos a persistir un odontologo
+[2024-08-08 22:41:20] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:45:40] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:45:40] [ INFO ] [OdontologoDAOH2:51] Comenzamos a persistir un odontologo
+[2024-08-08 22:45:40] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:45:59] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:45:59] [ INFO ] [OdontologoDAOH2:51] Comenzamos a persistir un odontologo
+[2024-08-08 22:45:59] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:48:50] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:48:50] [ INFO ] [OdontologoDAOH2:51] Comenzamos a persistir un odontologo
+[2024-08-08 22:48:50] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:49:42] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:49:42] [ INFO ] [OdontologoDAOH2:51] Se a creado un odontologoFrank
+[2024-08-08 22:49:42] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:53:57] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:53:58] [ INFO ] [OdontologoDAOH2:51] Se a creado un odontologoFer
+[2024-08-08 22:53:58] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 22:54:10] [ INFO ] [OdontologoDAOH2:21] Comenzamos a persistir un odontologo
+[2024-08-08 22:54:11] [ INFO ] [OdontologoDAOH2:51] Se a creado un odontologoFer
+[2024-08-08 22:54:11] [ INFO ] [OdontologoDAOH2:57] Listando a los odontologos
+[2024-08-08 23:31:16] [ INFO ] [OdontolgoDaoColecciones:19] Comenzamos con la persistencia en una colleccion
+[2024-08-08 23:31:16] [ INFO ] [OdontolgoDaoColecciones:22] Odontologo guardado: frank1
+[2024-08-08 23:31:16] [ INFO ] [OdontolgoDaoColecciones:28] Listando odontologos de las colecciones
